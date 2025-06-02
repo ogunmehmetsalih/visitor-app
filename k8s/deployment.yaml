@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: visitor-app
-        image: msalihogun/visitor-app:v25
+        image: msalihogun/visitor-app:v26
         ports:
         - containerPort: 3000
         imagePullPolicy: Always
